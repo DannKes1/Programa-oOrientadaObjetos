@@ -1,0 +1,15 @@
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\AviaoVoo.csproj.AssemblyReference.cache
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\AviaoVoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\AviaoVoo.AssemblyInfoInputs.cache
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\AviaoVoo.AssemblyInfo.cs
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\AviaoVoo.csproj.CoreCompileInputs.cache
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\bin\Debug\net7.0\AviaoVoo.exe
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\bin\Debug\net7.0\AviaoVoo.deps.json
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\bin\Debug\net7.0\AviaoVoo.runtimeconfig.json
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\bin\Debug\net7.0\AviaoVoo.dll
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\bin\Debug\net7.0\AviaoVoo.pdb
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\AviaoVoo.dll
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\refint\AviaoVoo.dll
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\AviaoVoo.pdb
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\AviaoVoo.genruntimeconfig.cache
+C:\Users\DanKes\Desktop\AtividadesClaiton\AviaoVoo\obj\Debug\net7.0\ref\AviaoVoo.dll
