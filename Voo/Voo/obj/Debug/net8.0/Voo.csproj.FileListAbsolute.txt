@@ -1,0 +1,14 @@
+C:\Users\2023102060016\source\repos\Voo\Voo\bin\Debug\net8.0\Voo.exe
+C:\Users\2023102060016\source\repos\Voo\Voo\bin\Debug\net8.0\Voo.deps.json
+C:\Users\2023102060016\source\repos\Voo\Voo\bin\Debug\net8.0\Voo.runtimeconfig.json
+C:\Users\2023102060016\source\repos\Voo\Voo\bin\Debug\net8.0\Voo.dll
+C:\Users\2023102060016\source\repos\Voo\Voo\bin\Debug\net8.0\Voo.pdb
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\Voo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\Voo.AssemblyInfoInputs.cache
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\Voo.AssemblyInfo.cs
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\Voo.csproj.CoreCompileInputs.cache
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\Voo.dll
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\refint\Voo.dll
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\Voo.pdb
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\Voo.genruntimeconfig.cache
+C:\Users\2023102060016\source\repos\Voo\Voo\obj\Debug\net8.0\ref\Voo.dll
