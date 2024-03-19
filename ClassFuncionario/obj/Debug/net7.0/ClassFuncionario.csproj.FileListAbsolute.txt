@@ -1,0 +1,15 @@
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\bin\Debug\net7.0\ClassFuncionario.exe
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\bin\Debug\net7.0\ClassFuncionario.deps.json
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\bin\Debug\net7.0\ClassFuncionario.runtimeconfig.json
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\bin\Debug\net7.0\ClassFuncionario.dll
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\bin\Debug\net7.0\ClassFuncionario.pdb
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ClassFuncionario.csproj.AssemblyReference.cache
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ClassFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ClassFuncionario.AssemblyInfoInputs.cache
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ClassFuncionario.AssemblyInfo.cs
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ClassFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ClassFuncionario.dll
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\refint\ClassFuncionario.dll
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ClassFuncionario.pdb
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ClassFuncionario.genruntimeconfig.cache
+C:\Users\DanKes\Desktop\AtividadesClaiton\ClassFuncionario\obj\Debug\net7.0\ref\ClassFuncionario.dll
