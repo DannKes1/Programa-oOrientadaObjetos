@@ -10,5 +10,24 @@ public class Proprietario_PF
     public string _sexo;
 
     public Cnh _cnh;
+
+    public void SetCPF(string cpf)
+    {
+       
+        if (ValidacaoCPF.validaCPF(cpf))
+        {
+            this._cpf = cpf;
+        }
+       else
+        {
+            Console.WriteLine("CPF Invalido");
+        }
+
+    }
+    public string GetCPF()
+    {
+        return this._cpf;
+    }
+    
 }
 

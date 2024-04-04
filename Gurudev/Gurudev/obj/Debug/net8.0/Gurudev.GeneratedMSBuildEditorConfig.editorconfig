@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Gurudev
-build_property.ProjectDir = C:\Users\DanKes\Desktop\Gurudev\Gurudev\
+build_property.ProjectDir = C:\Users\2023102060016\source\repos\Gurudev\Gurudev\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

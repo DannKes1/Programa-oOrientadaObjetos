@@ -1,0 +1,14 @@
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\Gurudev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\Gurudev.AssemblyInfoInputs.cache
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\Gurudev.AssemblyInfo.cs
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\Gurudev.csproj.CoreCompileInputs.cache
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\bin\Debug\net8.0\Gurudev.exe
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\bin\Debug\net8.0\Gurudev.deps.json
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\bin\Debug\net8.0\Gurudev.runtimeconfig.json
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\bin\Debug\net8.0\Gurudev.dll
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\bin\Debug\net8.0\Gurudev.pdb
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\Gurudev.dll
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\refint\Gurudev.dll
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\Gurudev.pdb
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\Gurudev.genruntimeconfig.cache
+C:\Users\2023102060016\source\repos\Gurudev\Gurudev\obj\Debug\net8.0\ref\Gurudev.dll

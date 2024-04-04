@@ -1,4 +1,5 @@
-﻿
+﻿using System;
+
 Console.WriteLine("Digite o cpf");
-string cpf = console.ReadLine();
+string cpf = Console.ReadLine();
 ValidacaoCPF.validaCPF(cpf);
