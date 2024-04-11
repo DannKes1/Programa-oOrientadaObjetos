@@ -1,0 +1,24 @@
+// oq vai cair na prova 
+classe 
+atributo
+metodos construtor, com retorno, com parametro  e sobrecarga de metodos
+
+
+encapsulamento, get e set
+
+conceito de herança
+classes estaticas (classes, metodos, atributos)
+
+
+
+// explicação
+classe statica eu não preciso criar um objeto
+classe statica nao pode ser instanciada!! 
+
+dentro de uma classe statica é aceito somente coisas estaticas
+
+
+// 
+
+
+classes nao staticas vc pode instaciar objetos
