@@ -1,0 +1,14 @@
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\BancoDanKes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\BancoDanKes.AssemblyInfoInputs.cache
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\BancoDanKes.AssemblyInfo.cs
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\BancoDanKes.csproj.CoreCompileInputs.cache
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\bin\Debug\net8.0\BancoDanKes.exe
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\bin\Debug\net8.0\BancoDanKes.deps.json
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\bin\Debug\net8.0\BancoDanKes.runtimeconfig.json
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\bin\Debug\net8.0\BancoDanKes.dll
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\bin\Debug\net8.0\BancoDanKes.pdb
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\BancoDanKes.dll
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\refint\BancoDanKes.dll
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\BancoDanKes.pdb
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\BancoDanKes.genruntimeconfig.cache
+C:\Users\2023102060016\source\repos\BancoDanKes\BancoDanKes\obj\Debug\net8.0\ref\BancoDanKes.dll
