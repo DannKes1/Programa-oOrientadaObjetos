@@ -11,6 +11,10 @@ catch (Exception ex)
     Console.WriteLine("Erro ao conectar"+ ex.Message );
 }
 
+Console.WriteLine("1 - Cadastrar, 2 - Excluir ");
+string resp = Console.ReadLine();
+
+
 try
 {
     Console.WriteLine("");
@@ -37,3 +41,4 @@ try
 {
     Console.WriteLine($"Erro!{ ex.Message}");
 }
+
