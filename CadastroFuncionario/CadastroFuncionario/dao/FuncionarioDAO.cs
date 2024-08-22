@@ -44,11 +44,16 @@ namespace CadastroFuncionario.dao
 
         public void Delete(Funcionario funcionario)
         {
+            if (funcionario is null) { 
+            throw new Exception($"Erro ao excluir o cliente");
+            }
             try
             {
+
                 string sql = "DELETE FROM Funcionarios WHERE IdFuncionario = @IdFuncionario";
                 MySqlCommand comando = new MySqlCommand(sql, Conexao.Conectar());
                 comando.Parameters.AddWithValue("@IdFuncionario", funcionario.IdFuncionario);
+
                 comando.ExecuteNonQuery();
                 Console.WriteLine("Cliente excluido com sucesso!");
             }
